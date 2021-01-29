@@ -20,3 +20,7 @@ nothing to commit, working tree clean
  `
  
  Looking to push to Github repo with the name of well THIS one ! jnutt367/React-project
+Well, what a great last few hours and breakthroughs with git!!! The command line will become my bestie!!!
+I am in love with the fact that I can now make changes to a github repo without ever coming here what a fabulous MILESTONE in my journey!!!
+Wow!! I cant wait to see what possibilities this will open up and allow this React app to become something while I journey to learn React and the command line...and Hey 
+This will be documenting the trek!!! Man I'm going somewhere!
