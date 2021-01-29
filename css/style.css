@@ -1,4 +1,9 @@
 body {
     background-color: tomato;
     color:thistle;
+    text-align: center;
+}
+img {
+    height: 300px;
+    width: 300px;
 }
